@@ -6,9 +6,9 @@ Introduction
 This package provides an implementation of Lagrange interpolating polynomials.
 
 The focus of this package is simplicity: It’s small, and there is no dependency
-on complex 3rd party packages. It has been written this for a computer graphics
-animation software. Performance and precision have not been objectives during
-development.
+on complex 3rd party packages. It has been written for use in a computer
+graphics animation software. Performance and precision have not been objectives
+during development.
 
 
 Example
