@@ -1,4 +1,4 @@
-[![Build Status][5](https://travis-ci.org/feklee/interpolating-polynomial.svg?branch=master)](https://travis-ci.org/feklee/interpolating-polynomial)
+[![Build Status](https://travis-ci.org/feklee/interpolating-polynomial.svg?branch=master)](https://travis-ci.org/feklee/interpolating-polynomial)
 
 Introduction
 ============
