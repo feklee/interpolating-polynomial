@@ -1,0 +1,16 @@
+{
+    "name": "interpolating-polynomial",
+    "version": "1.0.0",
+    "author": "Felix E. Klee <felix.klee@inka.de>",
+    "homepage": "https://github.com/feklee/interpolating-polynomial",
+    "description": "Constructs Lagrange polynomial for interpolation",
+    "main": "node_main.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/feklee/interpolating-polynomial"
+    },
+    "license": "MIT",
+    "keywords" : ["interpolate", "interpolation", "interpolating", "lagrange",
+                  "polynomial", "math", "mathematics", "numeric"],
+    "bugs": "https://github.com/feklee/interpolating-polynomial/issues"
+}
