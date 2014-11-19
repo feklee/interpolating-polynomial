@@ -30,9 +30,9 @@ f = interpolatingPolynomial([[0, 0]]);
     assertNumEqual(f(x), 0);
 });
 
-f = interpolatingPolynomial([[0, 1.6]]);
+f = interpolatingPolynomial([[0, 1.7]]);
 [234, 0, -7234.43].forEach(function (x) {
-    assertNumEqual(f(x), 1.6);
+    assertNumEqual(f(x), 1.7);
 });
 
 f = interpolatingPolynomial([[0, -23432.4]]);
