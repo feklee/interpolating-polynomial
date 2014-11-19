@@ -26,7 +26,7 @@ Code (`plotPoint` function not included):
 
 Result:
 
-    ![Plot][4]
+![Plot][4]
 
 For bad input, behavior is undefined.
 
