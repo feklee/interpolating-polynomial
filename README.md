@@ -6,9 +6,8 @@ Introduction
 This package provides an implementation of Lagrange interpolating polynomials.
 
 The focus of this package is simplicity: It’s small, and there is no dependency
-on complex 3rd party packages. It has been written for use in a computer
-graphics animation software. Performance and precision have not been objectives
-during development.
+on complex 3rd party packages. Computation happens according to
+[Neville’s algorithm][5].
 
 
 Example
@@ -75,3 +74,4 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 [2]: http://en.wikipedia.org/wiki/Lagrange_polynomial
 [3]: http://mathworld.wolfram.com/LagrangeInterpolatingPolynomial.html
 [4]: plot.png
+[5]: http://en.wikipedia.org/wiki/Neville's_algorithm
