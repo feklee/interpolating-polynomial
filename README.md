@@ -42,6 +42,27 @@ Reading
   * [Lagrange Interpolating Polynomial on MathWorld][3]
 
 
+Coding conventions
+==================
+
+  * Code needs to validate with JSLint.
+
+  * Comments are in Markdown.
+
+  * Avoid constructors (JS is classless), don’t throw exceptions (not necessary
+    in JS).
+
+  * Versioning: major.minor.bug-fix
+
+    Incompatible changes to the API mandate an update of the major version.
+
+    Keep version up to date in:
+
+      + Git tags
+
+      + `package.json`
+
+
 License
 =======
 

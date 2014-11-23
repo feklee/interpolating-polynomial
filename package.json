@@ -1,6 +1,6 @@
 {
     "name": "interpolating-polynomial",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "author": "Felix E. Klee <felix.klee@inka.de>",
     "homepage": "https://github.com/feklee/interpolating-polynomial",
     "description": "Constructs Lagrange polynomials for interpolation",
